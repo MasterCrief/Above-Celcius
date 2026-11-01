@@ -40,14 +40,6 @@ More information will be revealed through future development updates and announc
 
 ## 02 — PROJECT STATUS
 
-| | Status |
-|---|---|
-| **Development** | 🟠 In Progress |
-| **Release** | 🔴 Not Available |
-| **Release Date** | ⚪ To Be Announced |
-| **Platform** | 🟦 PC — Steam |
-
-### Current Phase
 
 **Development**
 
@@ -191,13 +183,12 @@ When the mod is ready, official download and installation information will be pu
 
 <h2>SUBNAUTICA: ABOVE CELSIUS</h2>
 
-<p><em>It's going to be hot.</em></p>
 
 <br>
 
 <p>
 Independent fan project.<br>
-Not affiliated with or endorsed by Unknown Worlds Entertainment.
+Not affiliated with or endorsed With Subnautica.
 </p>
 
 </div>
